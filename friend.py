@@ -1,4 +1,4 @@
 class friend:
-    name = ""
-    def __init__(self,name):
-        self.name = name
+    school = ""
+    def __init__(self,school):
+        self.school = school
