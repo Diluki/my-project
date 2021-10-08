@@ -1,3 +1,5 @@
-value=10
+from friend import friend
+
+friend= friend("Ama")
 print ('hello')
-print(value)
+print(friend.value)
